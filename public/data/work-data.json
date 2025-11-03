@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-violin.svg",
+      "title": "Pasión por la música",
+      "client": "Tocar el violín y aprender piezas nuevas",
+      "slug": "musica-violin"
+    },
+    {
+      "image": "/images/work/work-img-reading.svg",
+      "title": "Amante de la lectura",
+      "client": "Lectura filosófica y psicológica",
+      "slug": "lectura-filosofia"
+    },
+    {
+      "image": "/images/work/valorant.jpg",
+      "title": "Videojuegos",
+      "client": "Disfruto juegar videjuegos pues es un mundo enorme donde puedo conocer muchas cosas nuevas y personas nuevas",
+      "slug": "gaming"
+    },
+    {
+      "image": "/images/work/root.png",
+      "title": "Juegos de mesa",
+      "client": "Me encanta probar nuevos juegos y compartirlos con mis amigos",
+      "slug": "cafe"
+    },
+    {
+      "image": "/images/work/work-img-design.jpg",
+      "title": "Diseño y personalización",
+      "client": "Creación de interfaces y branding visual",
+      "slug": "diseno-interfaces"
+    },
+    {
+      "image": "/images/work/work-img-learning.jpg",
+      "title": "Aprendizaje continuo",
+      "client": "Cursos online de tecnología y seguridad",
+      "slug": "aprendizaje-online"
+    }
+  ]
+}

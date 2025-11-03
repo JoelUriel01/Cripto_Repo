@@ -1,0 +1,126 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "joeluriel01@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "https://mail.google.com/mail/?view=cm&fs=1&to=joeluriel01@gmail.com"
+      },
+      {
+        "type": "Celular",
+        "label": "+52 55 2576 4591",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "https://wa.me/525525764591"
+      },
+      {
+        "type": "website",
+        "label": "github.com/JoelUriel01",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://github.com/JoelUriel01"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "Github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/JoelUriel01"
+      },
+      {
+        "platform": "LinkedIn",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/joeluriel/"
+      },
+      {
+        "platform": "Instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://instagram.com/JoelUriel01"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+      "title": "Ingeniería en Sistemas Computacionales",
+      "description": "ESCOM, Instituto Politécnico Nacional – Actualmente cursando 6° semestre (2025)"
+      },
+      {
+      "title": "Técnico en Metalurgia",
+      "description": "CECyT 2 'Miguel Bernard', IPN – 2019-2022"
+      },
+      {
+      "title": "Certificación de inglés B2",
+      "description": "Centro de Lenguas Extranjeras IPN – 2024"
+      },
+      {
+      "title": "Google Cloud Computing Foundations",
+      "description": "Google - 2024"
+      },
+      {
+      "title": "Curso de Introducción a la Ciberseguridad",
+      "description": "Coursera / Google – (En curso)"
+
+      }
+    ],
+    "skills": [
+      {
+        "name": "Github",
+        "icon": "/images/home/education-skill/github-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/mysql-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "/images/home/education-skill/google-icon.svg",
+        "rating": 2
+      },
+      {
+        "name": "C",
+        "icon": "/images/home/education-skill/c-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Javascript",
+        "icon": "/images/home/education-skill/js-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/home/education-skill/node-icon.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Github",
+        "href": "/"
+      },
+      {
+        "title": "Instagram",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "Correo",
+        "label": "joeluriel01@gmail.com",
+        "link": "https://mail.google.com/mail/?view=cm&fs=1&to=joeluriel01@gmail.com"
+      },
+      {
+        "type": "Celular",
+        "label": "+52 5525 4645 91",
+        "link": "https://wa.me/525525764591"
+      }
+    ]
+  }
+}
