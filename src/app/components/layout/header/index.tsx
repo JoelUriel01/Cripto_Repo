@@ -1,5 +1,5 @@
 "use client";
-
+import Swal from "sweetalert2";
 import Logo from "../logo";
 
 const Header = () => {
@@ -21,6 +21,25 @@ const Header = () => {
                 Descarga mi CV
               </span>
             </a>
+<button
+  onClick={() =>
+    Swal.fire({
+      icon: "info",
+      title: "🔐 Próximamente",
+      text: "Esta función aún no está implementada.",
+      confirmButtonText: "Entendido",
+      customClass: {
+    confirmButton: "no-hover-effect",
+  },
+    })
+  }
+  className="relative overflow-hidden px-6 py-3 border-2 border-gray-800 rounded-full bg-white text-black before:!hidden hover:bg-white hover:text-black"
+>
+  Mi llave pública
+</button>
+
+
+
           </div>
         </nav>
       </div>
