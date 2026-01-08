@@ -1,5 +1,4 @@
 "use client";
-import Swal from "sweetalert2";
 import Logo from "../logo";
 
 const Header = () => {
