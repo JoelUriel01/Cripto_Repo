@@ -21,25 +21,15 @@ const Header = () => {
                 Descarga mi CV
               </span>
             </a>
-<button
-  onClick={() =>
-    Swal.fire({
-      icon: "info",
-      title: "🔐 Próximamente",
-      text: "Esta función aún no está implementada.",
-      confirmButtonText: "Entendido",
-      customClass: {
-    confirmButton: "no-hover-effect",
-  },
-    })
-  }
-  className="relative overflow-hidden px-6 py-3 border-2 border-gray-800 rounded-full bg-white text-black before:!hidden hover:bg-white hover:text-black"
->
-  Mi llave pública
-</button>
-
-
-
+            <a
+              href="/Joel_LlavePub.pem"
+              download="Joel-Ramales-public-key.pem"
+              className="relative overflow-hidden cursor-pointer w-fit py-2 sm:py-3 md:py-5 px-4 sm:px-5 md:px-7 border border-primary rounded-full group"
+            >
+              <span className="relative z-10 text-xl font-medium text-black group-hover:text-black transition-colors duration-300">
+                Mi llave pública
+              </span>
+            </a>
           </div>
         </nav>
       </div>
